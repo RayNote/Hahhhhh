@@ -1,6 +1,10 @@
 # Hahhhhh
+
+### 18-2-14
+义深写了一篇 [写给 Ray 的节日寄语](letter214.md)
+
 ### 18-2-13
-脑公通过 Pull request 给宝宝写了个教程，要看哦~
+义深通过 Pull request 给宝宝写了个教程，要看哦~
 
 [ethan_markdown_tips.md](ethan_markdown_tips.md)
 
